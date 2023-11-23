@@ -14,10 +14,14 @@
 ![alt text](latihan.py/gambar1.png?raw=true)
 
 # <p>Tugas Praktikum</p>
-<p>Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
-- Program dibuat dengan menggunakan Dictionary
-- Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data)
-- Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
-- Buat flowchart dan penjelasan programnya pada README.md. • Commit dan push repository ke github.</p>
+<p>Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :>p
+<p>- Program dibuat dengan menggunakan Dictionary</p>
+<p>- Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data)</p>
+<p>- Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)</p>
+<p>- Buat flowchart dan penjelasan programnya pada README.md. • Commit dan push repository ke github</p>
+<p>Hasil program</p>
 
-![alt text](?raw=true)
+![alt text](praktikum5.py/gambar2.png?raw=true)
+
+# <p>Penjelasan program</p>
+
