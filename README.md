@@ -10,4 +10,4 @@
 <p>- Tampilkan daftar nama dan nomornya</p>
 <p>- Hapus kontak Dina</p>
 
-![alt text](?raw=true)
+![alt text](latihan.py/gambar1.png?raw=true)
