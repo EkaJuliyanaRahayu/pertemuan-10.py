@@ -24,4 +24,16 @@
 ![alt text](praktikum5.py/gambar2.png?raw=true)
 
 # <p>Penjelasan program</p>
+<p>- masukkan kode untuk menampilkan pilihan daftar nilai mahasiwa</p>
+<p>- if c.lower berfunngsi seperti or input bisa berjalan jika memasukkan T/t </p>
+<p>print("NAMA {0} TIDAK 
+  ADA!".format(nama))untuk  memanggil nama variabel</p>
+<p>- menghapus data yang sudah di input</p>
+<p>- mencari data yang sudah di input</p>
+<p>- menampilkan seluruh data</p>
+<p>list.items(): Memanggil isi dari daftar variabel,
+.format digunakan untuk mengatur format string yang nantinya akan dicetak atau 
+  ditampilkan ke layar</p>
+<p>- keluar program</p>
 
+# <p>FLOWCHART</p>
