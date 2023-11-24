@@ -38,5 +38,5 @@
 
 # <p>FLOWCHART</p>
 
-![alt text](![image](https://github.com/ekarahayu24/pertemuan-10.py/assets/147680283/8996d06c-ca73-4fdd-a066-87baee6ef416)
-?raw=true)
+![image](https://github.com/ekarahayu24/pertemuan-10.py/assets/147680283/8996d06c-ca73-4fdd-a066-87baee6ef416)
+
